@@ -1,0 +1,10 @@
+[package]
+name = "lukadev-0/taggedobject"
+version = "1.0.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+license = "MIT"
+authors = ["LukaDev"]
+
+[dependencies]
+Janitor = "howmanysmall/janitor@1.15.1"

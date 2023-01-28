@@ -1,0 +1,9 @@
+{
+  "name": "taggedobject",
+  "tree": {
+    "$path": "Packages",
+    "taggedobject": {
+      "$path": "src"
+    }
+  }
+}
