@@ -1,6 +1,7 @@
 [package]
 name = "lukadev-0/taggedobject"
-version = "1.0.0"
+description = "Very simple utility to create objects bound to CollectionService tags."
+version = "1.0.1"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 license = "MIT"
