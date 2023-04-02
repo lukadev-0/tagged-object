@@ -28,6 +28,7 @@ local function TaggedObject(tagName: string, fn: (instance: Instance, janitor: J
 		end
 
 		janitor:Destroy()
+		janitors[instance] = nil
 	end
 
 	CollectionService:GetInstanceAddedSignal(tagName):Connect(instanceAdded)
